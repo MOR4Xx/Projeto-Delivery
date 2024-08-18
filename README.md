@@ -1,5 +1,7 @@
 # Projeto Delivery
 
+![Japinha Oriental Food](Images/Logo.png)
+
 O **Projeto Delivery** é uma aplicação Java desenvolvida para gerenciar um sistema de delivery. Este projeto inclui funcionalidades para gerenciar produtos, categorias, clientes e pedidos por meio de uma interface gráfica.
 
 ## Funcionalidades
